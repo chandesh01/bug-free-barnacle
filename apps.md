@@ -1,0 +1,3 @@
+## 📸 Photography
+- [Pixel Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) [`Port for other phones`](https://www.celsoazevedo.com/files/android/google-camera/) is Google’s advanced computational photography app that leverages AI-driven features like HDR+, Night Sight, Super Res Zoom, and Portrait Mode to deliver high-quality images.
+- [Film Simulator](https://github.com/YahiaAngelo/Film-Simulator) [`App Store`](market://details?id=io.github.yahiaangelo.filmsimulator.android) is a cross‑platform mobile tool built with Kotlin Multiplatform that lets users apply film‑style LUTs and adjust image parameters like brightness, contrast, and saturation to achieve a classic analog aesthetic.
