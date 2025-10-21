@@ -1,3 +1,10 @@
+## 🛒 App Stores
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) is an open-source, privacy-focused alternative to the Google Play Store for Android devices. Developed by Aurora OSS, it allows users to download, update, and search for apps without the need for Google Play Services or a Google account.
+- [Obtainium](https://github.com/ImranR98/Obtainium) [`App Store`](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium) is an open-source Android utility that lets you install and update apps directly from sources like GitHub, GitLab, and F-Droid.
+- [Droid-ify](https://github.com/Droid-ify/client) [`App Store`](https://f-droid.org/packages/com.looker.droidify) is an open‑source Android “app store” client that lets users browse, install and update apps from F‑Droid‑style repositories with a modern Material UI.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) [`App Store`](https://f-droid.org/app/de.marmaro.krt.ffupdater) is an open‑source Android utility app that automatically checks for and installs updates for privacy‑focused browsers and apps (like Firefox, Brave, Tor).
+-  More App Stores: [Mobilism](http://mobilism.org/app) [Apkmirror](https://www.apkmirror.com/) [Openapk](https://www.openapk.net/) [fdroid](https://f-droid.org/en/) [play store](https://play.google.com/store/games)
+
 ## 📸 Photography
 - [Pixel Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) [`Port for other phones`](https://www.celsoazevedo.com/files/android/google-camera/) is Google’s advanced computational photography app that leverages AI-driven features like HDR+, Night Sight, Super Res Zoom, and Portrait Mode to deliver high-quality images.
 - [Open Camera](https://opencamera.org.uk/) [`App Store`](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) is a free, open-source camera app for Android that offers full manual controls, including focus, exposure, ISO, white balance, and more, aimed at photography enthusiasts looking for greater flexibility than the stock camera app provides.
