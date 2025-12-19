@@ -1,25 +1,86 @@
-## 🛒 App Stores
-- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) is an open-source, privacy-focused alternative to the Google Play Store for Android devices. Developed by Aurora OSS, it allows users to download, update, and search for apps without the need for Google Play Services or a Google account.
-- [Obtainium](https://github.com/ImranR98/Obtainium) [`App Store`](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium) is an open-source Android utility that lets you install and update apps directly from sources like GitHub, GitLab, and F-Droid.
-- [Droid-ify](https://github.com/Droid-ify/client) [`App Store`](https://f-droid.org/packages/com.looker.droidify) is an open‑source Android “app store” client that lets users browse, install and update apps from F‑Droid‑style repositories with a modern Material UI.
-- [FFUpdater](https://github.com/Tobi823/ffupdater) [`App Store`](https://f-droid.org/app/de.marmaro.krt.ffupdater) is an open‑source Android utility app that automatically checks for and installs updates for privacy‑focused browsers and apps (like Firefox, Brave, Tor).
--  More App Stores: [Mobilism](http://mobilism.org/app) [Apkmirror](https://www.apkmirror.com/) [Openapk](https://www.openapk.net/) [fdroid](https://f-droid.org/en/) [play store](https://play.google.com/store/games)
+# Android Apps
 
-## 📸 Photography
-- [Pixel Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) [`Port for other phones`](https://www.celsoazevedo.com/files/android/google-camera/) is Google’s advanced computational photography app that leverages AI-driven features like HDR+, Night Sight, Super Res Zoom, and Portrait Mode to deliver high-quality images.
-- [Open Camera](https://opencamera.org.uk/) [`App Store`](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) is a free, open-source camera app for Android that offers full manual controls, including focus, exposure, ISO, white balance, and more, aimed at photography enthusiasts looking for greater flexibility than the stock camera app provides.
-- [Google Photos](https://photos.google.com) [`App Store`](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) is Google’s all‑in‑one photo & video management app: it offers cloud backup, smart organization, powerful editing tools, sharing features, and search across your media.
-- [Ente Photos](https://ente.io/) [`App Store`](https://play.google.com/store/apps/details?id=io.ente.photos) is a cross‑platform photo & video backup and storage solution that emphasises end‑to‑end encryption (E2EE), meaning the provider cannot view your media.
-- [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) is a professional-grade photo editing app by Google that offers a wide range of tools and filters, including RAW editing, selective adjustments, healing, curves, and more — all in a mobile-friendly interface.
-- [Film Simulator](https://github.com/YahiaAngelo/Film-Simulator) [`App Store`](https://play.google.com/store/apps/details?id=io.github.yahiaangelo.filmsimulator.android) is a cross‑platform mobile tool built with Kotlin Multiplatform that lets users apply film‑style LUTs and adjust image parameters like brightness, contrast, and saturation to achieve a classic analog aesthetic.
+## 🛒 App Stores & Package Management
+*Alternatives to the Play Store and tools to keep your apps updated from source.*
 
-## 💼 Productivity
-- [digitally](https://github.com/nicanor-jay/digitally) is a hybrid counter and habit‑tracker Android app
-- [HabitKit](https://www.habitkit.app/) [`App Store`](https://play.google.com/store/apps/details?id=com.roehl.habitkit) tracks your habits with ease and view your daily progress in a clear, intuitive way
-- [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) [`App Store`](https://apt.izzysoft.de/fdroid/index/apk/com.rendox.routinetracker) is a planner that aims to simplify managing activities that you need to perform consistently. It combines features of a planner calendar app and a habit tracker allowing you to keep all your activities in one place.
-- [buckwheat](https://buckwheat.app/) [`App Store`](https://play.google.com/store/apps/details?id=com.danilkinkin.buckwheat) is an open-source Android application designed to help users manage their finances effectively.
+* **[Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)**: A privacy-friendly Play Store client. Download apps without a Google account.
+* **[Obtainium](https://github.com/ImranR98/Obtainium)**: Install and update apps directly from their source (GitHub, GitLab, etc.).
+* **[Droid-ify](https://github.com/Droid-ify/client)**: A modern, Material You frontend for F-Droid repositories.
+* **[FFUpdater](https://github.com/Tobi823/ffupdater)**: Dedicated updater for privacy-centric browsers (Firefox, Brave, Tor).
+* **Other Repositories**: [F-Droid](https://f-droid.org/en/) | [APKMirror](https://www.apkmirror.com/) | [Mobilism](http://mobilism.org/) | [OpenAPK](https://www.openapk.net/)
 
-## 🧹 Utilities
-- [LTE Cleaner](https://mdp43140.github.io/LTECleanerFOSS/) is a free, open-source Android cleaner app that removes safe-to-delete files like logs, temporary files, caches, empty folders, and advertisement folders.
-- [KeepScreenOn](https://github.com/elastic-rock/KeepScreenOn) [`App Store`](https://play.google.com/store/apps/details?id=eu.davidweis.keepscreenon) is an open-source Android app that adds a quick settings tile to prevent your screen from timing out, allowing you to keep the display on as needed.
-- [App Lock](https://f-droid.org/packages/dev.pranav.applock/) [`App Store`](https://apt.izzysoft.de/packages/dev.pranav.applock) is an open-source Android app locker that offers a modern, lightweight solution to secure sensitive applications using PIN, fingerprint, or face authentication.
+
+## 🔐 Privacy & Password Management
+*Tools to secure your accounts, manage passkeys, and protect your digital identity.*
+
+* **[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**: Industry-standard, open-source password manager with cross-platform sync.
+* **[Proton Pass](https://play.google.com/store/apps/details?id=ch.protonmail.pass)**: An end-to-end encrypted password manager from the makers of Proton Mail.
+* **[NordPass](https://play.google.com/store/apps/details?id=com.nordpass.android)**: A security-focused password manager featuring XChaCha20 encryption.
+* **[Google Credential Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager)**: A system-level Android tool for managing passkeys and traditional passwords.
+* **[App Lock](https://github.com/PranavPurwar/AppLock)**: Open-source vault to secure specific apps using biometrics or PIN.
+
+## 🗺️ Navigation & Outdoors
+*Offline maps, hiking tools, and professional navigation sensors.*
+
+* **[Trail Sense](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)**: An all-in-one tool for hikers including a compass, barometer, altimeter, and weather forecasting—no internet required.
+* **[Organic Maps](https://organicmaps.app/)**: Fast, offline maps for hikers and cyclists based on OpenStreetMap.
+* **[OsmAnd](https://osmand.net/)**: A highly customizable offline navigation app with detailed contour lines and GPX recording.
+
+## 🌐 Network & Connectivity
+*Monitor your data, block ads, and secure your internet connection.*
+
+* **[Proton VPN](https://github.com/ProtonVPN/android-app)**: High-security, open-source VPN with a strict no-logs policy.
+* **[RethinkDNS](https://github.com/celzero/rethink-app)**: A powerful firewall and DNS resolver to block trackers system-wide.
+* **[Traffic Light](https://f-droid.org/en/packages/com.leekleak.trafficlight/)**: A lightweight monitor that shows real-time upload/download speeds in your status bar.
+* **[NextDNS Manager](https://github.com/Double-Angels/NextDNSManager)**: Manage your NextDNS configuration and real-time analytics.
+* **[Blocker](https://github.com/thep0y/blocker)**: Disable specific app services and trackers (Requires Shizuku/Root).
+
+
+## 📥 Media Downloaders & Playback
+*Tools for offline media consumption and high-quality playback.*
+
+* **[Seal](https://github.com/JunkFood02/Seal)**: Material You video/audio downloader based on yt-dlp.
+* **[YTDLnis](https://github.com/deniscerri/ytdlnis)**: Power-user downloader with advanced playlist and command-line support.
+* **[Tubular](https://github.com/polymorphicshade/Tubular)**: A YouTube client that skips ads and sponsored segments automatically.
+* **[VLC for Android](https://github.com/videolan/vlc-android)**: The "play-everything" media player for local files and network streams.
+* **[PixelPlayer](https://github.com/theovilardo/PixelPlayer)**: A minimalist, high-quality music player for local libraries.
+
+
+## 📸 Photography & Creative Tools
+*Advanced camera controls and professional editing suites.*
+
+* **[Pixel Camera (GCam)](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)** ([Ports](https://www.celsoazevedo.com/files/android/google-camera/)): Google’s AI photography tech, ported for other devices.
+* **[Open Camera](https://opencamera.org.uk/)**: A manual-control powerhouse for serious photography.
+* **[Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed)**: Professional editing tools including RAW support and selective adjustments.
+* **[Ente Photos](https://ente.io/)**: Secure, E2EE alternative to Google Photos for cloud backups.
+* **[Film Simulator](https://github.com/YahiaAngelo/Film-Simulator)**: Apply analog film LUTs to give your photos a classic look.
+
+
+## 💼 Productivity & Habits
+*Manage your daily routines, tasks, and personal growth.*
+
+* **[HabitKit](https://www.habitkit.app/)**: Visual habit tracker with intuitive charts and progress grids.
+* **[Buckwheat](https://buckwheat.app/)**: Open-source personal finance and expense manager.
+* **[Tomato](https://github.com/nsh07/Tomato)**: A minimalist Pomodoro timer to manage focus sessions.
+* **[Routine Tracker](https://github.com/DanielRendox/RoutineTracker)**: A hybrid planner/habit tracker for consistent activities.
+* **[Digitally](https://github.com/nicanor-jay/digitally)**: A hybrid counter and habit-tracking utility.
+
+
+## 🧹 System Optimization & Utilities
+*Keep your device running smoothly and maintain system health.*
+
+* **[Hail](https://github.com/aistra0528/Hail)**: Freeze background apps to stop battery drain (Supports Shizuku).
+* **[Insular](https://gitlab.com/secure-system/Insular)**: Create a "sandbox" for invasive apps using Android's Work Profile.
+* **[LTE Cleaner](https://mdp43140.github.io/LTECleanerFOSS/)**: A safe, open-source cleaner for system logs and caches.
+* **[Reef](https://github.com/PranavPurwar/Reef)**: A distraction blocker designed to combat phone addiction.
+* **[KeepScreenOn](https://github.com/elastic-rock/KeepScreenOn)**: A quick setting toggle to keep your display active during long tasks.
+
+
+## 👨‍💻 Developer & Advanced Tools
+*Terminal environments, remote management, and system-level utilities.*
+
+* **[APKTool M](https://maximoff.su/apktool/?lang=en)**: A powerful, all-in-one APK editor for Android. It allows you to decompile, modify, and recompile apps directly on your device, including features for signing and verifying APKs.
+* **[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)**: An open-source utility designed to "merge" split APKs (APKS, XAPK, APKM) into a single, standard APK file, making them easier to install or patch with tools like ReVanced.
+Would you like me to find any other niche modding tools or utility scripts to add to your developer section?
+* **[Termux](https://github.com/termux/termux-app)**: A powerful terminal emulator and Linux environment (No root required).
+* **[Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)**: A professional SSH client and terminal for managing remote servers.
