@@ -54,6 +54,8 @@
 * **[Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed)**: Professional editing tools including RAW support and selective adjustments.
 * **[Ente Photos](https://ente.io/)**: Secure, E2EE alternative to Google Photos for cloud backups.
 * **[Film Simulator](https://github.com/YahiaAngelo/Film-Simulator)**: Apply analog film LUTs to give your photos a classic look.
+* **[Chitralaya CloudGallery App](https://github.com/AKS-Labs/CloudGallery)**: Transform Telegram into your personal, unlimited photo cloud storage.
+
 
 
 ## 💼 Productivity & Habits
@@ -81,6 +83,8 @@
 
 * **[APKTool M](https://maximoff.su/apktool/?lang=en)**: A powerful, all-in-one APK editor for Android. It allows you to decompile, modify, and recompile apps directly on your device, including features for signing and verifying APKs.
 * **[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)**: An open-source utility designed to "merge" split APKs (APKS, XAPK, APKM) into a single, standard APK file, making them easier to install or patch with tools like ReVanced.
+* **[ReVanced](https://revanced.app/)** [`Precomplied`](https://github.com/j-hc/revanced-magisk-module) [`Micro-G RE`](https://github.com/WSTxda/MicroG-RE): The successor to Vanced, providing a powerful patching framework for Android apps. It allows you to add features like ad-blocking, background playback, and SponsorBlock to apps like YouTube, YouTube Music, and more.
+Would you like me to find the link for the **ReVanced Manager** (the app used to apply these patches) as well?
 Would you like me to find any other niche modding tools or utility scripts to add to your developer section?
 * **[Termux](https://github.com/termux/termux-app)**: A powerful terminal emulator and Linux environment (No root required).
 * **[Termius](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)**: A professional SSH client and terminal for managing remote servers.
