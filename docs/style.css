@@ -1,0 +1,161 @@
+/* Material 3 Dark Theme Variables */
+:root {
+  --md-sys-color-background: #111318;
+  --md-sys-color-on-background: #e2e2e9;
+  --md-sys-color-surface: #111318;
+  --md-sys-color-surface-container: #1d2024;
+  --md-sys-color-primary: #a8c7fa; /* Signature light blue for dark mode */
+  --md-sys-color-on-primary: #062e6f;
+  --md-sys-color-secondary-container: #3b4758;
+  --md-sys-color-on-secondary-container: #d6e3ff;
+  --md-sys-color-outline: #8e9099;
+  --md-sys-color-surface-variant: #44474e;
+  --md-sys-color-on-surface-variant: #c4c6d0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--md-sys-color-background);
+  color: var(--md-sys-color-on-background);
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+header {
+  padding: 48px 24px 32px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 500;
+  margin: 0 0 24px 0;
+  color: var(--md-sys-color-on-background);
+}
+
+.controls-container {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Material 3 Text Fields / Dropdowns */
+input[type="text"],
+select {
+  background-color: var(--md-sys-color-surface-variant);
+  color: var(--md-sys-color-on-surface-variant);
+  border: 1px solid transparent;
+  border-bottom: 2px solid var(--md-sys-color-on-surface-variant);
+  border-radius: 8px 8px 0 0;
+  padding: 16px;
+  font-size: 16px;
+  font-family: inherit;
+  outline: none;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+  flex: 1;
+  min-width: 200px;
+}
+
+input[type="text"]:focus,
+select:focus {
+  background-color: var(--md-sys-color-surface-variant);
+  border-bottom-color: var(--md-sys-color-primary);
+}
+
+main {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+}
+
+/* Material 3 Filled Card */
+.card {
+  background-color: var(--md-sys-color-surface-container);
+  border-radius: 24px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-category {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--md-sys-color-primary);
+}
+
+.card-title {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.card-desc {
+  font-size: 14px;
+  color: var(--md-sys-color-on-surface-variant);
+  flex-grow: 1;
+  margin: 0;
+}
+
+/* Material 3 Filled Button */
+/* Card Actions Container */
+.card-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+  flex-wrap: wrap; /* Allows buttons to stack on very small screens */
+}
+
+/* Material 3 Filled Button */
+.card-button {
+  background-color: var(--md-sys-color-primary);
+  color: var(--md-sys-color-on-primary);
+  padding: 10px 24px;
+  border-radius: 100px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  transition: opacity 0.2s;
+  text-align: center;
+}
+
+/* Material 3 Tonal/Secondary Button */
+.card-button.secondary {
+  background-color: var(--md-sys-color-secondary-container);
+  color: var(--md-sys-color-on-secondary-container);
+}
+
+.card-button:hover {
+  opacity: 0.85;
+}
+
+.message {
+  text-align: center;
+  grid-column: 1 / -1;
+  padding: 48px;
+  color: var(--md-sys-color-on-surface-variant);
+  font-size: 18px;
+}
+

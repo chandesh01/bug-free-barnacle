@@ -1,0 +1,89 @@
+name,url,packagename,category,description,source
+1.1.1.1,https://one.one.one.one/help/,com.cloudflare.onedotonedotonedotone,Tools,Cloudflare DNS resolver for privacy and speed.,other
+APKTool M,https://maximoff.su/apktool/?lang=en,,Tools,"A powerful, all-in-one APK editor for Android. It allows you to decompile, modify, and recompile apps directly on your device.",other
+Airtel,https://www.airtel.in/,com.myairtelapp,Productivity,Official Airtel telecom management app.,playstore
+AntiSplit-M,https://github.com/AbdurazaaqMohammed/AntiSplit-M,,Tools,"An open-source utility designed to ""merge"" split APKs.",other
+App Lock,https://github.com/PranavPurwar/AppLock,,Tools,Open-source vault to secure specific apps using biometrics or PIN.,fdroid
+Aurora Store,https://gitlab.com/AuroraOSS/AuroraStore,,Tools,A privacy-friendly Play Store client. Download apps without a Google account.,fdroid
+Authenticator,https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2,com.google.android.apps.authenticator2,Tools,Google's 2FA authentication app.,playstore
+Axis Mobile,https://www.axis.bank.in/,com.axis.mobile,Finance,Official Axis Bank mobile banking application.,playstore
+Binary Eye,https://github.com/markusfisch/BinaryEye,de.markusfisch.android.binaryeye,Tools,Open-source barcode and QR code scanner.,playstore
+Bitwarden,https://bitwarden.com/,com.x8bit.bitwarden,Productivity,"Industry-standard, open-source password manager with cross-platform sync.",playstore
+Brave,https://brave.com/,com.brave.browser,Communication,Privacy-focused browser with built-in ad blocker.,playstore
+Calculator,https://github.com/sadellie/unitto,com.sadellie.unitto,Tools,Unitto calculator and unit converter.,playstore
+Calendar,https://calendar.google.com/,com.google.android.calendar,Google,Google Calendar for schedule management.,playstore
+Camera,https://www.celsoazevedo.com/files/android/google-camera/,org.codeaurora.snapcam,Photography,Pixel Camera Port for other devices,other
+ChatGPT,https://chat.com,com.openai.chatgpt,Productivity,Official OpenAI ChatGPT mobile application.,playstore
+Clock,https://play.google.com/store/apps/details?id=com.google.android.deskclock,com.google.android.deskclock,Google,Google Clock for alarms and timers.,playstore
+Contacts,https://contacts.google.com,com.google.android.contacts,Googlr,Google Contacts for address book management.,playstore
+Drive,https://drive.google.com,com.google.android.apps.docs,Google,Google Drive cloud storage.,playstore
+Droid-ify,https://github.com/Droid-ify/client,com.looker.droidify,Tools,"A modern, Material You frontend for F-Droid repositories.",other
+Ente Photos,https://ente.io/,io.ente.photos,Photography,"Secure, E2EE alternative to Google Photos for cloud backups.",playstore
+FFUpdater,https://github.com/Tobi823/ffupdater,de.marmaro.krt.ffupdater,Tools,"Dedicated updater for privacy-centric browsers (Firefox, Brave, Tor).",fdroid
+Film Simulator,https://github.com/YahiaAngelo/Film-Simulator,io.github.yahiaangelo.filmsimulator.android,Photography,Apply analog film LUTs to give your photos a classic look.,playstore
+GPay,https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user,com.google.android.apps.nbu.paisa.user,Finance,Google Pay for UPI and digital payments.,playstore
+Galaxy App Booster,https://www.apkmirror.com/apk/samsung-electronics-co-ltd/app-booster/,com.samsung.android.appbooster,Tools,Samsung utility to optimize app performance.,other
+Gboard,https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin,com.google.android.inputmethod.latin,Google,Google's official keyboard application.,playstore
+Hail,https://github.com/aistra0528/Hail,com.aistra.hail,Tools,Freeze background apps to stop battery drain (Supports Shizuku).,fdroid
+Health,https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile,com.fitbit.FitbitMobile,Google,Fitbit mobile app for health tracking.,playstore
+HeyMelody,https://play.google.com/store/apps/details?id=com.heytap.headset,com.heytap.headset,Tools,App for updating and managing OnePlus/Oppo wireless earbuds.,playstore
+Instagram,https://instagram.com,com.instagram.android,Social,Official Instagram application.,playstore
+Insular,https://gitlab.com/secure-system/Insular,,Tools,"Create a ""sandbox"" for invasive apps using Android's Work Profile.",fdroid
+Keep Notes,https://keep.google.com,com.google.android.keep,Google,Google Keep for quick notes and lists.,playstore
+LTE Cleaner,https://mdp43140.github.io/LTECleanerFOSS/,,Tools,"A safe, open-source cleaner for system logs and caches.",playstore
+Lawnchair,https://lawnchair.app/,app.lawnchair.play,Personalization,Highly customizable Android launcher.,playstore
+Ledge,https://github.com/initcn/ledge,com.ledge,Finance,Expense Tracking,other
+LibreOffice Viewer,https://play.google.com/store/apps/details?id=org.documentfoundation.libreoffice,org.documentfoundation.libreoffice,Productivity,Document viewer for LibreOffice formats.,playstore
+Lichess,https://lichess.org/,org.lichess.mobileV2,Games,Free and open-source chess platform.,playstore
+MiX Archive,https://mixplorer.com/,com.mixplorer.addon.archive,Tools,Archive addon for MiXplorer file manager.,other
+MiX Encrypt,https://mixplorer.com/,com.mixplorer.addon.encrypt,Tools,Encryption addon for MiXplorer file manager.,other
+MiXplorer,https://mixplorer.com/,com.mixplorer,Tools,Advanced file manager for Android.,other
+MicroG RE,https://morphe.software/microg,app.revanced.android.gms,Tools,MicroG for account sign-ins in modified apps.,other
+Morphe,https://morphe.software/,app.morphe.manager,Tools,Morphe manager utility.,other
+NextDNS Manager,https://NextDNS.io,com.doubleangels.nextdnsmanagement,Tools,Manage your NextDNS configuration and real-time analytics.,playstore
+Organic Maps,https://organicmaps.app/,app.organicmaps,Maps & Navigation,"Fast, offline maps for hikers and cyclists based on OpenStreetMap.",fdroid
+OsmAnd,https://osmand.net/,net.osmand.plus,Maps & Navigation,A highly customizable offline navigation app with detailed contour lines and GPX recording.,fdroid
+Passwords,http://passwords.google.com/,com.google.android.apps.credentialmanager,Google,Google Password Manager,playstore
+Phone,https://play.google.com/store/apps/details?id=com.google.android.dialer,com.google.android.dialer,Google,Google Phone dialer application.,playstore
+PhonePe,https://play.google.com/store/apps/details?id=com.phonepe.app,com.phonepe.app,Finance,UPI payments and financial services app.,playstore
+Photos,https://photos.google.com,com.google.android.apps.photos,Google,Google Photos for gallery and cloud backup.,playstore
+Pixel Camera (GCam),https://www.celsoazevedo.com/files/android/google-camera/,com.google.android.GoogleCamera,Photography,"Google’s AI photography tech, ported for other devices.",
+Pixel Habit Tracker,https://pixel.al,com.pixel.al.pixelhabittracker,Productivity,Habit tracking application.,playstore
+PixelPlayer,https://github.com/theovilardo/PixelPlayer,,Music & Audio,"A minimalist, high-quality music player for local libraries.",other
+Power Tools,https://github.com/initcn/powertools,com.initcn.powertools,Tools,Device utility and power tools application.,other
+Proton Pass,https://proton.me/pass,proton.android.pass,Productivity,An end-to-end encrypted password manager from the makers of Proton Mail.,playstore
+Proton VPN,https://protonvpn.com/,ch.protonvpn.android,Tools,"High-security, open-source VPN with a strict no-logs policy.",playstore
+RailOne,https://www.irctc.co.in/nget/train-search,org.cris.aikyam,Maps & Navigation,Railway inquiry and management tool.,playstore
+Rapido,https://www.rapido.bike/,com.rapido.passenger,Maps & Navigation,Bike taxi and auto booking app.,playstore
+Reef,https://github.com/PranavPurwar/Reef,dev.pranav.reef,Health & Fitness,A distraction blocker designed to combat phone addiction.,fdroid
+Resplash,https://unsplash.com/,com.b_lam.resplash,Personalization,Unsplash client for high-quality wallpapers.,playstore
+Seal,https://github.com/JunkFood02/Seal,com.junkfood.seal,Video Players & Editors,Material You video/audio downloader based on yt-dlp.,fdroid
+Sefirah,https://github.com/shrimqy/Sefirah-Android,com.castle.sefirah,Tools,Phone Link/KDE Connect Alternative.,playstore
+Sheets,https://sheets.google.com,com.google.android.apps.docs.editors.sheets,Google,Google Sheets spreadsheet editor.,playstore
+Shortcut Maker,https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker,rk.android.app.shortcutmaker,Personalization,App to create custom shortcuts for Android.,playstore
+Silence,https://github.com/shrimqy/Sefirah-Android,me.lucky.silence,Tools,Call Blocker.,fdroid
+Sip,https://github.com/initcn/sip,com.sip,Health & Fitness,Water Drink Reminder.,other
+Skit,https://play.google.com/store/apps/details?id=com.pavelrekun.skit,com.pavelrekun.skit,Tools,App manager to extract and inspect APKs.,playstore
+Snapseed,https://play.google.com/store/apps/details?id=com.niksoftware.snapseed,com.niksoftware.snapseed,Photography,Professional editing tools including RAW support and selective adjustments.,playstore
+Tasks,https://tasks.google.com,com.google.android.apps.tasks,Google,Google Tasks for to-do list management.,playstore
+Telegram,https://telegram.org/,org.telegram.messenger,Communication,Secure cloud-based messaging app.,playstore
+Termius,https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client,com.server.auditor.ssh.client,Tools,A professional SSH client and terminal for managing remote servers.,playstore
+Termux,https://termux.dev/,com.termux,Tools,A powerful terminal emulator and Linux environment (No root required).,playstore
+Tomato,https://github.com/nsh07/Tomato,org.nsh07.pomodoro,Productivity,A minimalist Pomodoro timer to manage focus sessions.,fdroid
+Traffic Light,https://f-droid.org/en/packages/com.leekleak.trafficlight/,com.leekleak.trafficlight,Tools,A lightweight monitor that shows real-time upload/download speeds in your status bar.,fdroid
+Trail Sense,https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense,com.kylecorry.trail_sense,Travel & Local,"An all-in-one tool for hikers including a compass, barometer, altimeter, and weather forecasting—no internet required.",playstore
+Tubular,https://github.com/polymorphicshade/Tubular,org.polymorphicshade.tubular,Video Players & Editors,A YouTube client that skips ads and sponsored segments automatically.,fdroid
+Tv Tracker,https://github.com/initcn/tvtracker,com.droid.tvtracker,Entertainment,Track TV shows and movies.,other
+Uber,https://Uber.com,com.ubercab,Maps & Navigation,Ride-hailing and transportation app.,playstore
+VLC for Android,https://github.com/videolan/vlc-android,org.videolan.vlc,Video Players & Editors,"The ""play-everything"" media player for local files and network streams.",playstore
+VWFNDR™ + MBL,https://www.vwfndr.camera/mbl,com.vwfndr.mbl,Photography,Viewfinder application for photography.,playstore
+Vi App,https://vi.com,com.mventus.selfcare.activity,Productivity,Official Vodafone Idea telecom management app.,playstore
+Voice Recorder,https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote,com.sec.android.app.voicenote,Tools,Samsung Voice Recorder application.,playstore
+WhatsApp,https://whatsapp.com/,com.whatsapp,Communication,Meta's instant messaging application.,playstore
+Where is My Train,https://play.google.com/store/apps/details?id=com.whereismytrain.android,com.whereismytrain.android,Maps & Navigation,Offline Indian railway timetable and live status.,playstore
+X,https://x.com,com.twitter.android,Social,X (formerly Twitter) social media platform.,playstore
+YTDLnis,https://github.com/deniscerri/ytdlnis,com.deniscerri.ytdl,Video Players & Editors,Power-user downloader with advanced playlist and command-line support.,fdroid
+YouTube Music,https://music.youtube.com,com.google.android.apps.youtube.music,Music & Audio,Official YouTube Music streaming app.,playstore
+YouTube,https://youtube.com,app.morphe.android.youtube,Video Players & Editors,Morphe modified YouTube client.,playstore
+iCloudEMSV2,https://play.google.com/store/apps/details?id=com.icloudems.v2,com.icloudems.v2,Education,Education management system client.,playstore
+slice,https://slice.bank.in/,indwin.c3.shareapp,Finance,Credit and payment application.,playstore

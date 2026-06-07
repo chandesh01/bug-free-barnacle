@@ -7,4 +7,3 @@
 3. **Pairing:** Open the **Shizuku** app, tap **Pairing**, then tap **Developer Options**. Inside Wireless Debugging, select **"Pair device with pairing code."**
 4. **Enter Code:** Enter the 6-digit code shown in the Shizuku notification.
 5. **Start:** Return to the Shizuku app and tap **Start**. Once it says "Shizuku is running," you can open supported apps and grant it Shizuku access.
-

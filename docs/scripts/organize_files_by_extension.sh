@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 # organize_files_by_extension.sh — Organize files by extension (with optional recursion and cleanup)
 # Compatible with Linux, macOS, and Termux
+# -r  Recursively organize files inside subdirectories
+# --clean  Delete empty folders after organizing
+# -h, --help  Show usage info
 
 set -e
 
@@ -95,16 +98,15 @@ organize_files() {
 
         mkdir -p "$dest_path"
         echo "📂 $(basename "$file") → $dest/"
-        mv -n "$file" "$dest_path/" 2>/dev/null || echo "⚠️  Failed to move: $file"
+        mv -n "$file" "$dest_path/" 2>/dev/null || echo "Failed to move: $file"
     done < <(find "$search_dir" "${find_opts[@]}" -print0)
 }
 
 organize_files "$TARGET_DIR" $RECURSIVE
 
-# --- Optional cleanup ---
 if $CLEANUP; then
     echo "🧹 Removing empty folders..."
     find "$TARGET_DIR" -type d -empty -not -path "$TARGET_DIR" -delete
 fi
 
-echo "✅ Done organizing files."
+echo "Done organizing files."
