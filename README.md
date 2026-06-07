@@ -1,3 +1,3 @@
 # Androidbtw
 
-https://initcn.github.io/androidbtw/apps/
+https://initcn.github.io/androidftw/apps/
