@@ -4,7 +4,7 @@ APKTool M,https://maximoff.su/apktool/?lang=en,,Tools,"A powerful, all-in-one AP
 Airtel,https://www.airtel.in/,com.myairtelapp,Productivity,Official Airtel telecom management app.,playstore
 AntiSplit-M,https://github.com/AbdurazaaqMohammed/AntiSplit-M,,Tools,"An open-source utility designed to ""merge"" split APKs.",other
 App Lock,https://github.com/PranavPurwar/AppLock,,Tools,Open-source vault to secure specific apps using biometrics or PIN.,fdroid
-Aurora Store,https://gitlab.com/AuroraOSS/AuroraStore,,Tools,A privacy-friendly Play Store client. Download apps without a Google account.,fdroid
+Aurora Store,https://gitlab.com/AuroraOSS/AuroraStore,com.aurora.store,Tools,A privacy-friendly Play Store client. Download apps without a Google account.,fdroid
 Authenticator,https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2,com.google.android.apps.authenticator2,Tools,Google's 2FA authentication app.,playstore
 Axis Mobile,https://www.axis.bank.in/,com.axis.mobile,Finance,Official Axis Bank mobile banking application.,playstore
 Binary Eye,https://github.com/markusfisch/BinaryEye,de.markusfisch.android.binaryeye,Tools,Open-source barcode and QR code scanner.,playstore
@@ -15,7 +15,7 @@ Calendar,https://calendar.google.com/,com.google.android.calendar,Google,Google 
 Camera,https://www.celsoazevedo.com/files/android/google-camera/,org.codeaurora.snapcam,Photography,Pixel Camera Port for other devices,other
 ChatGPT,https://chat.com,com.openai.chatgpt,Productivity,Official OpenAI ChatGPT mobile application.,playstore
 Clock,https://play.google.com/store/apps/details?id=com.google.android.deskclock,com.google.android.deskclock,Google,Google Clock for alarms and timers.,playstore
-Contacts,https://contacts.google.com,com.google.android.contacts,Googlr,Google Contacts for address book management.,playstore
+Contacts,https://contacts.google.com,com.google.android.contacts,Google,Google Contacts for address book management.,playstore
 Drive,https://drive.google.com,com.google.android.apps.docs,Google,Google Drive cloud storage.,playstore
 Droid-ify,https://github.com/Droid-ify/client,com.looker.droidify,Tools,"A modern, Material You frontend for F-Droid repositories.",other
 Ente Photos,https://ente.io/,io.ente.photos,Photography,"Secure, E2EE alternative to Google Photos for cloud backups.",playstore
